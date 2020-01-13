@@ -1,5 +1,5 @@
 # SomeUsefulTips
-Some useful tips 
+Some useful tips.
 
 ### pytorch-geometric
 1. g++ version should larger than 4.9 or torch-scatter cannot work well even if it had been installed successfully.
